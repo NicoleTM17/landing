@@ -1,0 +1,10 @@
+.banner-container{
+  /* margin: 0 auto; */
+  /* text-align:justify; */
+  width: 900px;
+  margin: 0px 270px;
+}
+
+.card-container h2{
+  text-align: center;
+}
